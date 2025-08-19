@@ -1,0 +1,10 @@
+{
+  "name": "dogoo-chat",
+  "version": "1.0.0",
+  "description": "A simple chat app using Node.js and Express",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^4.21.2",
+    "socket.io": "^4.8.1"
+  }
+}
